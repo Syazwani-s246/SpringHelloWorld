@@ -26,7 +26,7 @@ To run the application, follow these steps:
 2. Navigate to the project directory:
 
     ```bash
-    cd spring-helloworld
+    cd SpringHelloWorld
     ```
 
 3. Build the application using Maven:
@@ -38,7 +38,7 @@ To run the application, follow these steps:
 4. Run the Spring Boot application:
 
     ```bash
-    java -jar target/spring-helloworld-0.0.1-SNAPSHOT.jar
+    java -jar target/SpringHelloWorld-0.0.1-SNAPSHOT.jar
     ```
 
 5. Once the application is running, you can access it in your web browser at [http://localhost:8082/](http://localhost:8082/).
